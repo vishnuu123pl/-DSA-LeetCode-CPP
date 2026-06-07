@@ -17,7 +17,7 @@ This repository contains my solutions to LeetCode problems while learning Data S
 📈 Progress
 
 Difficulty| Solved
-Easy| 0
+Easy| 1
 Medium| 0
 Hard| 0
 
